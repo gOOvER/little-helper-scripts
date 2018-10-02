@@ -51,5 +51,4 @@ sudo systemctl start phantombot
 ## CleanUp
 ##
 cd ~
-rm -fR PhantomBot-nightly.zip
-rm -fR PhnatomBot-2*
+rm -fR PhantomBot-*
