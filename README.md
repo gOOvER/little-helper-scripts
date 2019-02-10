@@ -10,3 +10,6 @@ Some little hlper Scripts for my Server
 
 **PhantomBot:**
 * pbupdate.sh         - Update PhantomBot to lastest Nightly
+
+**SogeBot:**
+* sogeupdate.sh         - Update SogeBot to lastest Nightly
